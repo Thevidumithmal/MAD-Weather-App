@@ -58,4 +58,6 @@ dependencies {
     implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
 
     implementation ("com.squareup.picasso:picasso:2.8")
+
+    implementation ("com.jakewharton.threetenabp:threetenabp:1.2.1")
 }
